@@ -1,0 +1,3 @@
+https://github.com/coolasc/CA2_ML/
+
+in the repo there are also other models that were less sucessful than the delivered one therefore were not chosen as the one presented in the word document
